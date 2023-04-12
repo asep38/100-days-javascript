@@ -1,0 +1,4 @@
+:root {
+  --color-satu: #000080;
+  --color-dua: #056f7a;
+}

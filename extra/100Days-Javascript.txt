@@ -1,0 +1,102 @@
+Alarm App 			--- Done
+Countdown Timer 		--- Done
+Weather App 			--- Done
+To-Do List			--- Done
+Pomodoro Timer			--- Done
+Quiz App			--- Done
+Rock, Paper, Scissors Game	---
+Memory Game
+Tic Tac Toe Game
+Hangman Game
+Calculator
+Digital Clock
+Random Quote Generator
+Random Cat/Dog Image Generator
+Star Rating System
+Image Carousel
+Image Gallery
+Simple Drawing App
+Mouse Trail Effect
+Typing Speed Test
+Infinite Scroll
+Password Generator
+Password Strength Checker
+Chat App
+Music Player
+Video Player
+Video Speed Controller
+Morse Code Translator
+Binary Converter
+RGB Color Game
+Random Color Generator
+Simple Calculator Game
+BMI Calculator
+Tip Calculator
+Digital Compass
+Analog Clock
+Countdown Clock
+Analog Clock with Different Timezones
+Digital Clock with Different Timezones
+Date Picker
+Digital Timer
+Analog Timer
+Stopwatch
+Random Number Generator
+Snake Game
+
+Lightbox
+Image Zoom Effect
+Scroll-to-Top Button
+Text-to-Speech App
+Voice Recognition App
+Morse Code Sound Player
+Stopwatch with Lap Functionality
+Analog Stopwatch
+Digital Stopwatch
+Countdown Timer with Sound Effects
+Memory Game with Different Levels
+Simon Game
+Word Scramble Game
+Word Guessing Game
+Word Search Game
+Connect Four Game
+Battleship Game
+Flappy Bird Game
+Image Slider
+Image Carousel with Thumbnail Navigation
+Audio Visualizer
+Text Editor
+Sticky Notes App
+Drawing Pad
+Paint App
+Photo Editor
+Drag-and-Drop Game
+Snake Game with Multiple Levels
+Tetris Game
+Memory Game with Different Themes
+Typing Game
+Crossword Puzzle Game
+Hangman Game with Different Themes
+Chess Game
+Checkers Game
+Blackjack Game
+Sudoku Game
+Maze Game
+Light and Dark Mode Toggle
+Currency Converter
+Unit Converter
+Height Converter
+Weight Converter
+Temperature Converter
+Time Converter
+Distance Converter
+Area Converter
+Volume Converter
+Speed Converter
+Angle Converter
+Force Converter
+Energy Converter
+Power Converter
+Pressure Converter
+Sound Converter
+Frequency Converter

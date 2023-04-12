@@ -1,0 +1,98 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-image: url("bg1.jpg");
+  font-family: "Poppins", sans-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0;
+  overflow: hidden;
+  /* mix-blend-mode: difference; */
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 60px;
+  margin: -150px 0 40px;
+  /* display: flex; */
+}
+
+h1::before {
+  content: "";
+  position: absolute;
+  background: rgba(255, 255, 255, 0.5);
+  filter: blur(25px);
+  height: 40%;
+  width: 90%;
+  z-index: -2;
+  margin: 0 auto;
+  left: 50%; /* setengah dari width ::before */
+  transform: translateX(-50%);
+  /* filter */
+  opacity: 0.4;
+  -o-filter: blur(4px);
+  -ms-filter: blur(4px);
+  -moz-filter: blur(4px);
+  -webkit-filter: blur(4px);
+}
+
+.countdown {
+  display: flex;
+  transform: scale(2);
+}
+.time {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 15px;
+}
+.time h2::before {
+  content: "";
+  position: absolute;
+  background: rgba(255, 255, 255, 0.5);
+  filter: blur(25px);
+  height: 30%;
+  width: 100%;
+  z-index: -2;
+  margin: 0 auto;
+  left: 50%; /* setengah dari width ::before */
+  transform: translateX(-50%);
+  /* filter */
+  opacity: 0.4;
+  -o-filter: blur(4px);
+  -ms-filter: blur(4px);
+  -moz-filter: blur(4px);
+  -webkit-filter: blur(4px);
+}
+
+.time h2 {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1;
+  margin: 0 0 5px;
+}
+
+@media (max-width: 500px) {
+  h1 {
+    font-size: 45px;
+  }
+  .time {
+    margin: 5px;
+  }
+  .time h2 {
+    font-size: 12px;
+  }
+  .time small {
+    font-size: 10px;
+  }
+}
