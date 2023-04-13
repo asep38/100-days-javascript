@@ -11,7 +11,7 @@ const wind = document.querySelector(".wind span");
 
 button.addEventListener("click", () => {
   const city = document.querySelector(".search-box input").value;
-  const APIkey = "b0a08e58fa1df296a2560dcd07ce3e90";
+  const APIkey = "";
   fetch(
     `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${APIkey}&units=metric`
   )
